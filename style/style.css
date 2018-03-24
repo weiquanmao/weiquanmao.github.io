@@ -1,4 +1,5 @@
 body {
+  font-family: "Microsoft YaHei", Sans-serif;
   color: rgb(50,50,50);
 }
 
@@ -9,20 +10,27 @@ body {
   border-collapse: collapse;
 }
 
-#nametitle {
+.nametitle {
   font-size: 2em; 
   padding: 0px;
   margin: 0px;
   border: 0px;
 }
 
-.papertab {
+.projdes {
+  margin: 0px 0px 15px 0px;
+  font-size: 13pt;
+  font-family:Georgia;
+  font-style: italic;
+}
+
+.group_tab {
   width: 100%;
   border: 0;
   align: center;
 }
-.papertab th,
-.papertab td {
+.group_tab th,
+.group_tab td {
   padding: 10px 20px 10px 0px;
 } 
 
