@@ -1,11 +1,15 @@
 body {
+  margin: 0;
   font-family: "Microsoft YaHei", Sans-serif;
   color: rgb(50,50,50);
+  background-color: #CECECE;
 }
-
+table {
+  background-color: white; 
+}
 #main {
   padding: 0px;
-  margin: 50px;
+  margin: 0 10% 0 10%;
   border: 0px;
   border-collapse: collapse;
 }
@@ -46,16 +50,17 @@ body {
 }
 
 footer {
-  padding: 0;
+  margin: 0 10% 0 10%;
   font-size: 10px;
   font-weight: 30;
   letter-spacing: 1px;
   color: #717171;
+  background-color: white;
   text-align: center;
   border-top: 1px solid #CECECE;
 }
 footer .footer-bottom {
-  padding: 10px 0px 0px 0px;
+  padding: 10px 0px 15px 0px;
 }
 
 a {
