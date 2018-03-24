@@ -1,0 +1,60 @@
+body {
+  color: rgb(50,50,50);
+}
+
+#main {
+  padding: 0px;
+  margin: 50px;
+  border: 0px;
+  border-collapse: collapse;
+}
+
+#nametitle {
+  font-size: 2em; 
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+.papertab {
+  width: 100%;
+  border: 0;
+  align: center;
+}
+.papertab th,
+.papertab td {
+  padding: 10px 20px 10px 0px;
+} 
+
+.abstract {
+	display: none; 
+	text-align: justify;
+	font-family: georgia; 
+	font-style: italic;
+}
+.bibtex{
+	display: none;
+	font-family: courier;
+}
+
+footer {
+  padding: 0;
+  font-size: 10px;
+  font-weight: 30;
+  letter-spacing: 1px;
+  color: #717171;
+  text-align: center;
+  border-top: 1px solid #CECECE;
+}
+footer .footer-bottom {
+  padding: 10px 0px 0px 0px;
+}
+
+a {
+  color:#3366cc;
+  text-decoration:none;
+}
+a:hover {
+	color: #f02853;
+	text-decoration: none;
+}
