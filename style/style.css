@@ -39,13 +39,11 @@ table {
 } 
 
 .abstract {
-	display: none; 
 	text-align: justify;
 	font-family: georgia; 
 	font-style: italic;
 }
 .bibtex{
-	display: none;
 	font-family: courier;
 }
 
