@@ -22,6 +22,7 @@ table {
 }
 
 .projdes {
+  text-align: justify;
   margin: 0px 0px 15px 0px;
   font-size: 13pt;
   font-family:Georgia;
