@@ -16,14 +16,15 @@ table {
 
 .nametitle {
   font-size: 2em; 
+  min-width: 500px;
   padding: 0px;
   margin: 0px;
   border: 0px;
 }
 
-.projdes {
+.projdes{
   text-align: justify;
-  margin: 0px 0px 15px 0px;
+  margin: 0px 0px 15px 10px;
   font-size: 13pt;
   font-family:Georgia;
   font-style: italic;
@@ -43,9 +44,15 @@ table {
 	text-align: justify;
 	font-family: georgia; 
 	font-style: italic;
+  margin-left: 5px;
+  padding-left: 10px;
+  border-left: solid 1px lightgray;
 }
 .bibtex{
 	font-family: courier;
+  margin-left: 5px;
+  padding-left: 10px;
+  border-left: solid 1px lightgray;
 }
 
 footer {
