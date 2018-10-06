@@ -41,15 +41,15 @@ table {
 } 
 
 .abstract {
-	text-align: justify;
-	font-family: georgia; 
-	font-style: italic;
+  text-align: justify;
+  font-family: georgia; 
+  font-style: italic;
   margin-left: 5px;
   padding-left: 10px;
   border-left: solid 1px lightgray;
 }
 .bibtex{
-	font-family: courier;
+  font-family: courier;
   margin-left: 5px;
   padding-left: 10px;
   border-left: solid 1px lightgray;
@@ -74,6 +74,6 @@ a {
   text-decoration:none;
 }
 a:hover {
-	color: #f02853;
-	text-decoration: none;
+  color: #f02853;
+  text-decoration: none;
 }
